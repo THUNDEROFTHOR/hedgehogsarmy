@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name        Hedgehogs Army
-// @namespace   Hedgehog
-// @description 1194
+// @name        < DD XXxx >
+// @namespace   MD
+// @description hedgehogsarmy
 // @include     http://facebook.mafiawars.zynga.com/mwfb/remote/html_server.php*
 // @include     https://facebook.mafiawars.zynga.com/mwfb/remote/html_server.php*
 // @include     https://*.mafiawars.zynga.com/mwfb/remote/html_server.php*
