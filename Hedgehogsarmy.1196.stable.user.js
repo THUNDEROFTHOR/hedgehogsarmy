@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name           Hedgehogs Army
-// @author         Da Man
-// @namespace      Ant Nest
+// @name           hedgehogsarmy
+// @author         DM
+// @namespace      hedgehogsarmy
 // @include        http://facebook.mafiawars.zynga.com/mwfb/remote/html_server.php*
 // @grant          GM_setValue
 // @include        https://facebook.mafiawars.zynga.com/mwfb/remote/html_server.php*
