@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name        Hedgehogsarmy Elite
+// @name        Hedgehogsarmy Elite V2
 // @namespace   MD
-// @description Hedgehogsarmy
+// @description Hedgehogsarmy V2
 // @include     http://facebook.mafiawars.zynga.com/mwfb/remote/html_server.php*
 // @include     https://facebook.mafiawars.zynga.com/mwfb/remote/html_server.php*
 // @include     https://*.mafiawars.zynga.com/mwfb/remote/html_server.php*
