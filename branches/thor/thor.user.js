@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Thor
-// @namespace   Superchicken
-// @description my chicken is fantastic
+// @namespace   MD
+// @description Thor Auto
 // @include     http://*.mafiawars.zynga.com/mwfb/*
 // @include     http://www.mafiawars.zynga.com/play*
 // @include     http://www.facebook.com/dialog/feed*
