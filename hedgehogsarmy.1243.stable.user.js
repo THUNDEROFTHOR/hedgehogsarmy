@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Hedgehogsarmy 1240
+// @name        Hedgehogsarmy 1243
 // @namespace   MD
 // @description Hedgehogsarmy
 // @include     http://facebook.mafiawars.zynga.com/mwfb/remote/html_server.php*
