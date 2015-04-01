@@ -1,0 +1,1 @@
+Private lessons for hedgehogs learning to protect themselves from the monsters in the wild.
